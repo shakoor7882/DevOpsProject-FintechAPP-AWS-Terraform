@@ -6,5 +6,5 @@ module.exports = {
     name: 'aws',
   },
   configValidationMode: 'error',
-  frameworkVersion: '*',
+  frameworkVersion: '**',
 }
